@@ -1,8 +1,5 @@
-full_name = input("what is your full name: ")
-print(str(full_name))
-
-birth_year = input("In which year where your born in: ")
-print(str(birth_year))
+full_name = input("what's your name: ")
+birth_year = input("In which year were your born: ")
 
 current_year = 2026
 age = current_year - int(birth_year)

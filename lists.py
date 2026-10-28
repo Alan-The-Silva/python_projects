@@ -12,3 +12,4 @@ for i in range(len(names)):
 #using sort function to sort the list
 names.sort()
 print(names)
+
